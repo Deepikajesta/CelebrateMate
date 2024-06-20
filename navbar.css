@@ -1,0 +1,19 @@
+.navbar-nav .nav-link {
+    color: white !important;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: white !important;
+  }
+  
+  .navbar-brand {
+    color: white !important;
+  }
+  
+  .navbar-brand:hover {
+    color: white !important;
+  }
+  
+  /* .dropdown-item {
+    color: white !important;
+  } */

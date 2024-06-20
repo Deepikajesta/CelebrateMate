@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+#body{
+
+    background-repeat: no-repeat;
+    background-image: url("images/bg2.jpg");
+    background-size: cover;
+    background-position: cover;
+    font-family: "Playfair Display", serif;
+}
+#nav{
+    background-color: deeppink;
+}
+#nav-text{
+    color:white;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+#div1{
+    background-color:mistyrose;
+    border-radius: 30px;
+    width:1000px;
+    margin-left:60px;
+    padding: 35px;
+}
+#submit{
+    background-color:lightpink;
+}
+input{
+    color:lightpink;
+}
+h1 {
+	font-size: 80px;
+	color: rgb(212, 1, 89);
+	font-family: 'Noto Sans JP', sans-serif;
+}
+a{
+    text-decoration: none;
+    color:darkblue;
+    font-size: 15px;
+}

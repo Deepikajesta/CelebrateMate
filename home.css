@@ -1,0 +1,21 @@
+#bd{
+    background-image: url("images/bg6.avif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+#div{
+    background-image:url("images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+#div h1{
+    color:#eb5f8e;
+    padding-left: 100px;
+}
+#div p{
+    color:#eaa0a2;
+    font-weight: italic;
+}
